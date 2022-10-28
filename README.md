@@ -8,3 +8,49 @@ During module 17, the use of different Machine Learning models were used to anal
 
 
 # Results
+
+Classification reports made with each Machine Learning model are located in the next section. Six models were used, having six complete tables for each, including their balanced accuracy scores and the precision.
+
+* Naive Random Oversampling
+
+###### Image 1. Imbalanced classification report.
+
+![Image 1. Imbalanced classification report.](Resources/NROversampling.PNG)
+
+
+* SMOTE Oversampling
+
+###### Image 2. Imbalanced classification report.
+
+![Image 2. Imbalanced classification report.](Resources/SMOTE.PNG)
+
+
+* Undersampling
+
+###### Image 3. Imbalanced classification report.
+
+![Image 3. Imbalanced classification report.](Resources/Undersampling.PNG)
+
+
+* Combination (Over and Under) Sampling
+
+###### Image 4. Imbalanced classification report.
+
+![Image 4. Imbalanced classification report.](Resources/Combination.PNG)
+
+
+* Balanced Random Forest Classifier
+
+###### Image 5. Imbalanced classification report.
+
+![Image 5. Imbalanced classification report.](Resources/brf.PNG)
+
+
+* Easy Ensemble AdaBoost Classifier
+
+###### Image 6. Imbalanced classification report.
+
+![Image 6. Imbalanced classification report.](Resources/eeac.PNG)
+
+
+# Summary
