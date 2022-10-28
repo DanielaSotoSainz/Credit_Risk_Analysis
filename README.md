@@ -66,3 +66,5 @@ The other model to analyze bias, obtained a balanced accuracy score of 0.9316, t
 
 
 # Summary
+
+Some characteristics needed for models are balance of recall and precision. The model with the best results is Easy Ensemble AdaBoost Classifier, it is a useful tool to compare the other models and verify that the model with those specifications is Easy Ensemble. The model is recommended because it has the highest exactness of the analysis. The balanced accuracy is 93.2%, precision of 9% for high risk with the recall of 92% and 16% in F1. The precision in low risk is 100% with 94% for recall.
